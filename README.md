@@ -1,55 +1,57 @@
-# ESCORINY
-# 👋 Hello, I'm Escoriny
+<h1 align="center">🚀 Escoriny</h1>
+<h3 align="center">FiveM Developer | QBCore Specialist</h3>
 
-💻 **FiveM Developer | QBCore Specialist**
-🚗 Scripts & Systems for FiveM Servers
-🌍 From Morocco
-
----
-
-## 🚀 About Me
-
-* 🔧 Developer specialized in **FiveM & QBCore**
-* 📜 Creating **custom scripts for RP servers**
-* 🧠 Experience in **Lua, JavaScript, HTML, CSS**
-* 🚗 Working on **car systems, targeting systems, and server optimization**
+<p align="center">
+<img src="https://img.shields.io/badge/FiveM-Developer-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/QBCore-Scripts-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Discord-Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</p>
 
 ---
 
-## 🛠️ Skills
+## 👨‍💻 About Me
 
-* Lua (FiveM)
-* JavaScript
-* HTML / CSS
-* MySQL
-* Discord Bots (discord.js)
+* 🔧 FiveM Server Developer
+* 📜 Creating custom **QBCore scripts**
+* 🚗 Working on **car systems & targeting systems**
+* ⚡ Optimizing FiveM servers
 
 ---
 
-## 📦 Projects
+## 🛠️ Languages & Tools
 
-🔹 **QBCore Scripts**
-Custom scripts for FiveM RP servers.
-
-🔹 **Discord Bots**
-Ticket systems, moderation bots, and automation.
-
-🔹 **Car Systems**
-Advanced car targeting and interaction systems.
+<p>
+<img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql,git,github,vscode"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=escoriny\&show_icons=true\&theme=tokyonight)
+![Escoriny GitHub Stats](https://github-readme-stats.vercel.app/api?username=escoriny\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=escoriny\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🌐 Contact
+## 🔥 Featured Projects
 
-📷 Instagram: your_instagram
-💬 Discord: escoriny
+🚗 **FiveM Car Systems**
+Advanced vehicle interaction scripts.
+
+🎫 **Discord Ticket Bot**
+Full ticket system with transcripts.
+
+⚙️ **QBCore Utilities**
+Tools to improve RP servers.
 
 ---
 
-⭐ **Don't forget to star the projects if you like them!**
+## 🌐 Connect With Me
+
+* 📷 Instagram: your_instagram
+* 💬 Discord: escoriny
+
+---
+
+⭐ If you like my projects, don't forget to **Star** them!
